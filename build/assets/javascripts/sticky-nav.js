@@ -1,0 +1,1 @@
+var elementPosition=$(".nav-wrap").offset();$(window).scroll(function(){$(window).scrollTop()>elementPosition.top?$(".nav-wrap").css("position","fixed").css("top","0"):$(".nav-wrap").css("position","static")});
