@@ -5,6 +5,7 @@ set :css_dir, "assets/stylesheets"
 set :fonts_dir, "assets/fonts"
 set :images_dir, "assets/images"
 set :js_dir, "assets/javascripts"
+set :partials_dir, 'source/partials'
 set :markdown,
   autolink: true,
   fenced_code_blocks: true,
