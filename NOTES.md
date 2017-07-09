@@ -10,6 +10,8 @@ I am keeping a log of lessons learned, tools used and issues encountered for fut
 ## Saturday - July 8th
 * Learned how to deal with varying versions of Ruby i.e. global vs local.
 * Ran into issues with moving from rvm to rbenv as it relates to Ruby version.
+  Specifically
+  ''Your Ruby version is 1.8.7, but your Gemfile specified 1.9.3
   I beleive I began setting my enviroment up with rvm wich caused issues downstream.
   I ran into an issue where the local Ruby was set to 2.4.0 as was the config.rb
   However when trying to run the middle man build 2.4.1 was being recogized as the configured Ruby version.
@@ -19,8 +21,11 @@ I am keeping a log of lessons learned, tools used and issues encountered for fut
 
 # Resources Used Along the Way
 ---
+* https://github.com/thoughtbot/laptop
+
 * https://robots.thoughtbot.com/middleman-bourbon-walkthrough
-* thoughbot laptop
+* https://github.com/rbenv/rbenv#rbenv-versions
+
 
 
 
