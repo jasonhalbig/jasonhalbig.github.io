@@ -1,0 +1,5 @@
+[build]
+  command = "bundle exec middleman build"
+  publish = "build/"
+[template.environment]
+  SEGMENT_KEY = "4ebcIJbQ4v05KSOGhXjqbMjhS8uN6fJj"
