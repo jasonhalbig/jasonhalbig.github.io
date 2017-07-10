@@ -22,11 +22,10 @@ I am keeping a log of lessons learned, tools used and issues encountered for fut
 # Resources Used Along the Way
 ---
 * https://github.com/thoughtbot/laptop
-
 * https://robots.thoughtbot.com/middleman-bourbon-walkthrough
+
 * https://github.com/rbenv/rbenv#rbenv-versions
-
-
+* http://bundler.io/v1.12/gemfile_ruby.html
 
 
 
